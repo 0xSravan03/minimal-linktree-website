@@ -1,0 +1,26 @@
+{
+  "name": "Sravan",
+  "avatar": "https://avatars.githubusercontent.com/u/115915533?v=4",
+  "links": [
+    {
+      "title": "My Personal Website",
+      "url": "sravantp.com",
+      "image": ""
+    },
+    {
+      "title": "vercel Webiste",
+      "url": "https://vercel.com/dashboard",
+      "image": ""
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "url": ".com"
+    },
+    {
+      "title": "Github",
+      "url": ""
+    }
+  ]
+}
