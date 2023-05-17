@@ -1,1 +1,1 @@
-# Simple LinkTree webiste using Nextjs13
+# Minimal LinkTree Webiste using Nextjs 13
